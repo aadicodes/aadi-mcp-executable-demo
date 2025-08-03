@@ -5,9 +5,11 @@ This uses FastMCP framework. This is a simple demo and all code is present in se
 ## Steps before executing the code
 To ensure you have the right libraries and tools follow below steps.
 1. Install Python v12 or above. Use one of your favorite AI tools (e.g., google or MS Copilot) to get specific instructions
-2. ```pip install FastMCP mcp[cli]```
-3. Install Claude Desktop, follow this link for downloading appropriate version https://claude.ai/download
-4. Install uv, the pyhton package manager, instructions are available at https://github.com/astral-sh/uv
+2. ```console
+   pip install FastMCP mcp[cli]
+   ```
+4. Install Claude Desktop, follow this link for downloading appropriate version https://claude.ai/download
+5. Install uv, the pyhton package manager, instructions are available at https://github.com/astral-sh/uv
 
 Now take a deep breath, you installed lot of new stuff, they all need to work together. 
 if you are having multiple python versions, a common pattern on macOS, run below command to make 
