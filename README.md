@@ -20,11 +20,11 @@ $ uv python pin --global 3.12.7
 
 # Steps to install MCP server and test with Claude Desktop
 1. ```console 
-cd mcp-server-demo
+$ cd mcp-server-demo
 ```
 2. Run below command to add MCP server to Claude Desktop app
 ```console 
-uv run mcp install server.py
+$ uv run mcp install server.py
 ```
 3. Find the Claude Desktop app on your computer and start the app
 4. Using the chat input box and submit this prompt "get a happy greeting for Rajesh"
