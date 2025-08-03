@@ -4,8 +4,8 @@ This uses FastMCP framework. This is a simple demo and all code is present in se
 
 ## Steps before executing the code
 To ensure you have the right libraries and tools follow below steps.
-1. Install Python v12 or above
-2. pip install FastMCP mcp[cli]
+1. Install Python v12 or above. Use one of your favorite AI tools (e.g., google or MS Copilot) to get specific instructions
+2. ```pip install FastMCP mcp[cli]```
 3. Install Claude Desktop, follow this link for downloading appropriate version https://claude.ai/download
 4. Install uv, the pyhton package manager, instructions are available at https://github.com/astral-sh/uv
 
