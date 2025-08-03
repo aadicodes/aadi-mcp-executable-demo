@@ -14,7 +14,7 @@ To ensure you have the right libraries and tools follow below steps.
 
 Now take a deep breath, you installed lot of new stuff, they all need to work together. 
 if you are having multiple python versions, a common pattern on macOS, run below command to make 
-uv use the desired version of python.
+uv use the desired version of python. I have 3.12.7 on my macos, hence below command has 3.12.7
 ```console
 $ uv python pin --global 3.12.7
 ```
@@ -30,7 +30,11 @@ $ uv run mcp install server.py
 ```
 3. Find the Claude Desktop app on your computer and start the app
 4. Using the chat input box and submit this prompt "get a happy greeting for Rajesh"
-5. You may be prompted to click on "Allow Once" or "Allow always" to let Claude use local mcp server. Click the button of your choice and you will see Claude AI using the local MCP server to fetch a greeting for you.
+5. You may be prompted to click on "Allow Once" or "Allow always" to let Claude use local mcp server. 
+![ClaudePrompt](./readme/images/ClaudeSecurityPrompt.png)
+
+6. Click the button of your choice and you will see Claude AI using the local MCP server to fetch a greeting for you.
+![HappyGreeting](./readme/images/HappyGreeting.png)
 
 Congratulations, your experiment is complete now and successful. Feel free to create a PR if you wanna enhance this project. Reach me on linkedin https://www.linkedin.com/in/rajeshaadi/ to chat more.
 
