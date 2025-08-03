@@ -38,4 +38,9 @@ $ uv run mcp install server.py
 
 Congratulations, your experiment is complete now and successful. Feel free to create a PR if you wanna enhance this project. Reach me on linkedin https://www.linkedin.com/in/rajeshaadi/ to chat more.
 
+## Credits
+Thanks to following tools and sources
 
+**Built with:**
+- Python, Claude Desktop, FastMCP
+- Microsoft Copilot and Google for suggestions and troubleshooting help
