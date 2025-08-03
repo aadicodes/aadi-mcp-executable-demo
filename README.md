@@ -5,7 +5,8 @@ This uses FastMCP framework. This is a simple demo and all code is present in se
 ## Steps before executing the code
 To ensure you have the right libraries and tools follow below steps.
 1. Install Python v12 or above. Use one of your favorite AI tools (e.g., google or MS Copilot) to get specific instructions
-2. ```console
+2. Install FastMCP and mcp cli
+```console
  $ pip install FastMCP mcp[cli] 
  ```
 3. Install Claude Desktop, follow this link for downloading appropriate version https://claude.ai/download
@@ -19,7 +20,8 @@ $ uv python pin --global 3.12.7
 ```
 
 # Steps to install MCP server and test with Claude Desktop
-1. ```console 
+1. go to mcp-server-demo folder
+```console 
 $ cd mcp-server-demo
 ```
 2. Run below command to add MCP server to Claude Desktop app
