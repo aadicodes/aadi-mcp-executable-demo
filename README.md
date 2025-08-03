@@ -19,7 +19,7 @@ uv use the desired version of python.
 2. Run below command to add MCP server to Claude Desktop app
 ```uv run mcp install server.py```
 3. Find the Claude Desktop app on your computer and start the app
-4. Use the chat input box and use this prompt "get a happy greeting for Rajesh"
+4. Using the chat input box and submit this prompt "get a happy greeting for Rajesh"
 5. You may be prompted to click on "Allow Once" or "Allow always" to let Claude use local mcp server. Click the button of your choice and you will see Claude AI using the local MCP server to fetch a greeting for you.
 
 Congratulations, your experiment is complete now and successful.
